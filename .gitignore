@@ -1,0 +1,8 @@
+/.DS_Store
+/.segdeps
+/__pycache__
+.venv-tf
+mango/*
+plantvillage/*
+plantvillage.zip
+
