@@ -40,7 +40,7 @@ if os.path.exists(KAGGLE_WORKING):
         print(f"Found DATASET_PATH at: {DATASET_PATH}")
     else:
         # Fallback if they manually downloaded a zip to /kaggle/working/
-        ZIP_PATH = os.path.join(KAGGLE_WORKING, 'plantvillage.zip')
+        ZIP_PATH = os.path.join(KAGGLE_WORKING, 'CropCheckUp-dataset.zip')
         LOCAL_DATA_PATH = os.path.join(KAGGLE_WORKING, 'plant_data')
         
         if os.path.exists(LOCAL_DATA_PATH):
@@ -69,8 +69,8 @@ if os.path.exists(KAGGLE_WORKING):
             print(f"Warning: Could not automatically detect dataset directory.")
             
 else:
-    print("Not running in Kaggle. Using local 'plantvillage/' directory.")
-    DATASET_PATH = 'plantvillage/'
+    print("Not running in Kaggle. Using local 'CropCheckUp-dataset/' directory.")
+    DATASET_PATH = 'CropCheckUp-dataset/'
     OUTPUT_DIR = './plant_disease_outputs'
 
 # 2. Output Configuration
@@ -86,13 +86,15 @@ BATCH_SIZE = 64   # Good GPU utilization; RAM issues were from cache/XLA, not ba
 data_augmentation = models.Sequential([
     layers.RandomFlip("horizontal_and_vertical"),
     layers.RandomRotation(0.2, fill_mode='constant', fill_value=0.0),
+    layers.RandomTranslation(height_factor=0.1, width_factor=0.1, fill_mode='constant', fill_value=0.0),
     layers.RandomZoom(0.2, fill_mode='constant', fill_value=0.0),
     layers.RandomContrast(0.2),
+    layers.RandomBrightness(0.2),
 ], name='augmentation')
 
 def build_model(num_classes):
-    # 4. Load Pretrained MobileNetV3 (Small)
-    base_model = tf.keras.applications.MobileNetV3Small(
+    # 4. Load Pretrained MobileNetV3 (Large) for better feature extraction
+    base_model = tf.keras.applications.MobileNetV3Large(
         input_shape=(*IMG_SIZE, 3),
         include_top=False,
         weights='imagenet',
@@ -111,7 +113,7 @@ def build_model(num_classes):
         layers.Input(shape=(*IMG_SIZE, 3)),
         layers.Lambda(preprocess_input, name='mobilenet_preprocessing'),
         base_model,
-        layers.Dropout(0.2),
+        layers.Dropout(0.3),
         layers.Dense(num_classes, dtype='float32'),  # Force FP32 for numerically stable softmax
         layers.Activation('softmax', dtype='float32')
     ])

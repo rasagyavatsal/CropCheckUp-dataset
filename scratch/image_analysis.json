@@ -1,0 +1,1275 @@
+{
+    "plantvillage": {
+        "Apple___Apple_scab": {
+            "count": 630,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        630
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 630
+            }
+        },
+        "Apple___Black_rot": {
+            "count": 621,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        621
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 621
+            }
+        },
+        "Apple___Cedar_apple_rust": {
+            "count": 275,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        275
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 275
+            }
+        },
+        "Apple___healthy": {
+            "count": 1645,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1645
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1645
+            }
+        },
+        "Blueberry___healthy": {
+            "count": 1502,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1502
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1502
+            }
+        },
+        "Cherry_(including_sour)___Powdery_mildew": {
+            "count": 1052,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1052
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1052
+            }
+        },
+        "Cherry_(including_sour)___healthy": {
+            "count": 854,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        854
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 854
+            }
+        },
+        "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+            "count": 513,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        513
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 513
+            }
+        },
+        "Corn_(maize)___Common_rust_": {
+            "count": 1192,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1192
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1192
+            }
+        },
+        "Corn_(maize)___Northern_Leaf_Blight": {
+            "count": 985,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        985
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 985
+            }
+        },
+        "Corn_(maize)___healthy": {
+            "count": 1162,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1162
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1162
+            }
+        },
+        "Grape___Black_rot": {
+            "count": 1180,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1180
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1180
+            }
+        },
+        "Grape___Esca_(Black_Measles)": {
+            "count": 1384,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1384
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1384
+            }
+        },
+        "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+            "count": 1076,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1076
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1076
+            }
+        },
+        "Grape___healthy": {
+            "count": 423,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        423
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 423
+            }
+        },
+        "Mango___Anthracnose": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___Bacterial_Canker": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___Die_Back": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___Gall_Midge": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___Powdery_Mildew": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___Sooty_Mould": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Mango___healthy": {
+            "count": 500,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        500
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 500
+            }
+        },
+        "Orange___Haunglongbing_(Citrus_greening)": {
+            "count": 5507,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        5507
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 5507
+            }
+        },
+        "Peach___Bacterial_spot": {
+            "count": 2297,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        2295
+                    ],
+                    [
+                        [
+                            324,
+                            512
+                        ],
+                        1
+                    ],
+                    [
+                        [
+                            466,
+                            512
+                        ],
+                        1
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 466,
+                "min_h": 256,
+                "max_h": 512
+            },
+            "formats": {
+                "JPEG": 2297
+            }
+        },
+        "Peach___healthy": {
+            "count": 360,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        360
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 360
+            }
+        },
+        "Pepper,_bell___Bacterial_spot": {
+            "count": 997,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        997
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 997
+            }
+        },
+        "Pepper,_bell___healthy": {
+            "count": 1478,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1478
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1478
+            }
+        },
+        "Potato___Early_blight": {
+            "count": 1000,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1000
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1000
+            }
+        },
+        "Potato___Late_blight": {
+            "count": 1000,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1000
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1000
+            }
+        },
+        "Potato___healthy": {
+            "count": 152,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        152
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 152
+            }
+        },
+        "Raspberry___healthy": {
+            "count": 371,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        371
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 371
+            }
+        },
+        "Soybean___healthy": {
+            "count": 5090,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        5090
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 5090
+            }
+        },
+        "Squash___Powdery_mildew": {
+            "count": 1835,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1835
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1835
+            }
+        },
+        "Strawberry___Leaf_scorch": {
+            "count": 1109,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1108
+                    ],
+                    [
+                        [
+                            470,
+                            512
+                        ],
+                        1
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 470,
+                "min_h": 256,
+                "max_h": 512
+            },
+            "formats": {
+                "JPEG": 1109
+            }
+        },
+        "Strawberry___healthy": {
+            "count": 456,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        456
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 456
+            }
+        },
+        "Tomato___Bacterial_spot": {
+            "count": 2127,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        2127
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 2127
+            }
+        },
+        "Tomato___Early_blight": {
+            "count": 1000,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1000
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1000
+            }
+        },
+        "Tomato___Late_blight": {
+            "count": 1909,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1909
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1909
+            }
+        },
+        "Tomato___Leaf_Mold": {
+            "count": 952,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        952
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 952
+            }
+        },
+        "Tomato___Septoria_leaf_spot": {
+            "count": 1771,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1771
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1771
+            }
+        },
+        "Tomato___Spider_mites Two-spotted_spider_mite": {
+            "count": 1676,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1675
+                    ],
+                    [
+                        [
+                            335,
+                            512
+                        ],
+                        1
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 335,
+                "min_h": 256,
+                "max_h": 512
+            },
+            "formats": {
+                "JPEG": 1676
+            }
+        },
+        "Tomato___Target_Spot": {
+            "count": 1404,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1404
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1404
+            }
+        },
+        "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+            "count": 5357,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        5357
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 5357
+            }
+        },
+        "Tomato___Tomato_mosaic_virus": {
+            "count": 373,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        373
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 373
+            }
+        },
+        "Tomato___healthy": {
+            "count": 1591,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        1591
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 1591
+            }
+        }
+    },
+    "dataset2": {
+        "Bottle Gourd": {
+            "count": 1119,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            1200,
+                            1599
+                        ],
+                        397
+                    ],
+                    [
+                        [
+                            1599,
+                            1200
+                        ],
+                        368
+                    ],
+                    [
+                        [
+                            1152,
+                            864
+                        ],
+                        156
+                    ]
+                ],
+                "min_w": 573,
+                "max_w": 1599,
+                "min_h": 536,
+                "max_h": 1662
+            },
+            "formats": {
+                "PNG": 1119
+            }
+        },
+        "Zucchini": {
+            "count": 626,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            741,
+                            989
+                        ],
+                        6
+                    ],
+                    [
+                        [
+                            776,
+                            582
+                        ],
+                        6
+                    ],
+                    [
+                        [
+                            677,
+                            508
+                        ],
+                        6
+                    ]
+                ],
+                "min_w": 385,
+                "max_w": 1914,
+                "min_h": 433,
+                "max_h": 1715
+            },
+            "formats": {
+                "PNG": 626
+            }
+        },
+        "papaya": {
+            "count": 438,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            577,
+                            433
+                        ],
+                        314
+                    ],
+                    [
+                        [
+                            433,
+                            577
+                        ],
+                        95
+                    ],
+                    [
+                        [
+                            629,
+                            472
+                        ],
+                        2
+                    ]
+                ],
+                "min_w": 433,
+                "max_w": 898,
+                "min_h": 429,
+                "max_h": 674
+            },
+            "formats": {
+                "PNG": 438
+            }
+        }
+    },
+    "dataset2_processed": {
+        "Bottle_Gourd___Alternaria_Leaf_Blight": {
+            "count": 179,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        179
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 179
+            }
+        },
+        "Bottle_Gourd___Anthracnose": {
+            "count": 498,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        498
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 498
+            }
+        },
+        "Bottle_Gourd___Downy_Mildew": {
+            "count": 46,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        46
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 46
+            }
+        },
+        "Bottle_Gourd___Early_Alternaria_Leaf_Blight": {
+            "count": 45,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        45
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 45
+            }
+        },
+        "Bottle_Gourd___Fungal_Damage_Leaf": {
+            "count": 31,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        31
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 31
+            }
+        },
+        "Bottle_Gourd___Healthy": {
+            "count": 55,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        55
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 55
+            }
+        },
+        "Bottle_Gourd___Hole_Angular_Leaf_Spot": {
+            "count": 14,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        14
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 14
+            }
+        },
+        "Bottle_Gourd___Mosaic_Virus": {
+            "count": 251,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        251
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 251
+            }
+        },
+        "Papaya___Pathogen_Symptoms": {
+            "count": 25,
+            "dims": {
+                "common": [
+                    [
+                        [
+                            256,
+                            256
+                        ],
+                        25
+                    ]
+                ],
+                "min_w": 256,
+                "max_w": 256,
+                "min_h": 256,
+                "max_h": 256
+            },
+            "formats": {
+                "JPEG": 25
+            }
+        }
+    }
+}

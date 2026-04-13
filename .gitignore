@@ -3,6 +3,9 @@
 /__pycache__
 .venv-tf
 mango/*
-plantvillage/*
+plantvillage/
 plantvillage.zip
-
+combine dataset(papaya, Zucchini,Bottle Gourd)/
+dataset2/
+plantvillage1.zip
+CropCheckUp-dataset.zip

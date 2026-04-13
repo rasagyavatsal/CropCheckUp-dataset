@@ -1,0 +1,24 @@
+image_filename,crop_name,class_label,capture_date,capture_time,lighting_condition,gps_coordinates,location,camera_model,focal_length,background,original_image_count_ref
+BG_Alb_001.jpg,Bottle Gourd,Alternaria Leaf Blight,2/15/2024,9:45 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,178
+BG_Hole_005.jpg,Bottle Gourd,Hole Angular Leaf Spot,2/20/2024,3:30 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,55mm,Uniform Black,14
+BG_Anth_102.jpg,Bottle Gourd,Anthracnose,3/10/2024,10:15 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,28mm,Uniform Black,498
+BG_Downy_011.jpg,Bottle Gourd,Downy Mildew,3/12/2024,4:10 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,70mm,Uniform Black,46
+BG_Early_003.jpg,Bottle Gourd,Early Alternaria Leaf Blight,3/14/2024,8:50 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,35mm,Uniform Black,45
+BG_Fungal_020.jpg,Bottle Gourd,Fungal Damage Leaf,4/5/2024,9:20 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,45
+BG_Healthy_008.jpg,Bottle Gourd,Healthy,4/6/2024,10:30 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,55mm,Uniform Black,55
+BG_Mosaic_055.jpg,Bottle Gourd,Mosaic Virus,4/15/2024,3:15 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,28mm,Uniform Black,251
+ZC_Ang_002.jpg,Zucchini,Angular Leaf Spot,5/10/2024,8:40 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,70mm,Uniform Black,32
+ZC_Anth_015.jpg,Zucchini,Anthracnose,5/12/2024,4:45 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,60
+ZC_Downy_040.jpg,Zucchini,Downy Mildew,5/15/2024,10:00 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,35mm,Uniform Black,110
+ZC_Dry_009.jpg,Zucchini,Dry Leaf,6/1/2024,3:50 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,55mm,Uniform Black,35
+ZC_Healthy_001.jpg,Zucchini,Healthy,6/3/2024,9:10 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,6
+ZC_Insect_004.jpg,Zucchini,Insect Damage,6/10/2024,10:50 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,28mm,Uniform Black,14
+ZC_Iron_012.jpg,Zucchini,Iron Chlorosis Damage,7/5/2024,4:20 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,70mm,Uniform Black,40
+ZC_Xanth_008.jpg,Zucchini,Xanthomonas Leaf Spot,7/20/2024,9:30 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,35mm,Uniform Black,37
+ZC_YMV_088.jpg,Zucchini,Yellow Mosaic Virus,8/12/2024,3:40 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,246
+PP_Bact_005.jpg,Papaya,Bacterial Blight,9/1/2024,10:20 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,55mm,Uniform Black,33
+PP_Insect_018.jpg,Papaya,Carica Insect Hole,9/10/2024,4:05 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,28mm,Uniform Black,54
+PP_Curl_030.jpg,Papaya,Curled Yellow Spot,9/15/2024,9:15 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,70mm,Uniform Black,85
+PP_Healthy_010.jpg,Papaya,Healthy Leaf,9/20/2024,10:45 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,50mm,Uniform Black,40
+PP_Patho_101.jpg,Papaya,Pathogen Symptoms,10/5/2024,3:25 PM,Natural Light (Afternoon),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,35mm,Uniform Black,195
+PP_Necro_012.jpg,Papaya,Yellow Necrotic Spots Holes,10/10/2024,9:50 AM,Natural Light (Morning),23.8769° N 90.3113° E,Daffodil Smart City,Sony Alpha 7 II,55mm,Uniform Black,30
